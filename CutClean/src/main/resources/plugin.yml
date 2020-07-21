@@ -1,0 +1,6 @@
+name: CutClean
+version: ${project.version}
+main: me.lojosho.cutclean.CutClean
+api-version: 1.16
+authors: [LoJoSho]
+description: Based on VooDooBeard UHC datapack module

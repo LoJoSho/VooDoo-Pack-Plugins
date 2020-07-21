@@ -1,0 +1,20 @@
+pig:
+  min: 0
+  max: 2
+  xpmax: 0
+  xpmin: 2
+cow:
+  min: 0
+  max: 2
+  xpmax: 0
+  xpmin: 2
+chicken:
+  min: 0
+  max: 2
+  xpmax: 0
+  xpmin: 2
+sheep:
+  min: 0
+  max: 2
+  xpmax: 0
+  xpmin: 2
