@@ -1,0 +1,6 @@
+name: ZombieLeather
+version: ${project.version}
+main: me.lojosho.zombieleather.ZombieLeather
+api-version: 1.16
+authors: [LoJoSho]
+description: Transforms rotten flesh to leather
