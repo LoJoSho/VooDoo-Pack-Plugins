@@ -3,4 +3,4 @@ Datapacks from VooDoo Packs converted into a plugin format for Spigot and it's f
 
 Name | Version | Plugin Download | Datapack Download
 ------------ | ------------- | ------------- | -------------
-CutClean | 1.16.1 | [Plugin Download](https://github.com/LoJoSho/VooDoo-Pack-Plugins/releases) | [DataPack Download](http://gdanstum.net/-76651ONTK/2E?rndad=1266051228-1595368479)
+CutClean | 1.16.1 | [Plugin Download](https://github.com/LoJoSho/VooDoo-Pack-Plugins/blob/master/CutClean/CutClean-1.0.jar) | [DataPack Download](http://mc.voodoobeard.com/#cutclean)
