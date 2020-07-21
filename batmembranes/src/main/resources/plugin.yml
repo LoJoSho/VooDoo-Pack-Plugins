@@ -1,0 +1,6 @@
+name: BatMembranes
+version: ${project.version}
+main: me.lojosho.batmembranes.BatMembranes
+api-version: 1.16
+authors: [LoJoSho]
+description: Bats now drop membranes just in case you disabled phantoms
