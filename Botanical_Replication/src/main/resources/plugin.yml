@@ -1,0 +1,6 @@
+name: BotanicalReplication
+version: ${project.version}
+main: me.lojosho.botanicalreplication.BotanicalReplication
+api-version: 1.16
+authors: [LoJoSho]
+description: Duplicate plants with bonemeal and rotten flesh
