@@ -1,4 +1,3 @@
-<center>Centered text
 # VooDoo-Pack-Plugins
 Datapacks from VooDoo Packs converted into a plugin format for Spigot and it's forks.
 
@@ -34,5 +33,3 @@ Place a flower, or lillypad, with rottenflesh and bonemeal and it will give you 
 Allows you to put 8 snow layers in a chest pattern to form a normal snow block.
 
 ![Image of Layers2Blocks](http://mc.voodoobeard.com/img/layers2blocks.png)
-
-</center>
