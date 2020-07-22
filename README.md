@@ -9,7 +9,7 @@ Zombie Leather | 1.16.1 | 1.0 |  [Plugin Download](https://github.com/LoJoSho/Vo
 Botanical Replication | 1.16.1 | 1.0 |  [Plugin Download](https://github.com/LoJoSho/VooDoo-Pack-Plugins/blob/master/Botanical_Replication/BotanicalReplication-1.0.jar?raw=true) | [DataPack Download](http://mc.voodoobeard.com/#botanical_replication)
 Layers2Blocks | 1.16.1 | 1.0 |  [Plugin Download](https://github.com/LoJoSho/VooDoo-Pack-Plugins/blob/master/Layers2Blocks/Layers2Blocks-1.0.jar?raw=true) | [DataPack Download](http://mc.voodoobeard.com/#layers2blocks)
 
-CutClean: It's a 1.16 UHC module or a survival plugin that simply makes mobs drop their cooked food, ores to drop their ingots, and gravel to always give flint.
+######CutClean######: It's a 1.16 UHC module or a survival plugin that simply makes mobs drop their cooked food, ores to drop their ingots, and gravel to always give flint.
 ![Image of CutClean](https://i.imgur.com/gujllDW.png)
 BatMembranes: allows you to get Membranes another way, especially useful for servers who may have phantoms disabled. 
 ![Image of BatMembranes](https://i.imgur.com/CiGi9gJ.png)
