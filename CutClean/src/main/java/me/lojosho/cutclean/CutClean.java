@@ -73,19 +73,25 @@ public final class CutClean extends JavaPlugin implements Listener {
         }
     }
     @EventHandler
-    public void onBlockBreak(BlockBreakEvent event) {
-        if(event.getBlock().getType() == Material.IRON_ORE) {
+    public void onIronBlockBreak(BlockBreakEvent event) {
+        if (event.getBlock().getType() == Material.IRON_ORE) {
             Block b = event.getBlock();
             b.setType(Material.AIR);
             b.getWorld().dropItemNaturally(b.getLocation(), new ItemStack(Material.IRON_INGOT, 1));
             event.setCancelled(true);
         }
-        if(event.getBlock().getType() == Material.GOLD_ORE) {
+    }
+    @EventHandler
+    public void onGoldBlockBreak(BlockBreakEvent event) {
+        if (event.getBlock().getType() == Material.GOLD_ORE) {
             Block b = event.getBlock();
             b.setType(Material.AIR);
             b.getWorld().dropItemNaturally(b.getLocation(), new ItemStack(Material.GOLD_INGOT, 1));
             event.setCancelled(true);
         }
+    }
+    @EventHandler
+    public void onGravelBlockBreak(BlockBreakEvent event) {
         if(event.getBlock().getType() == Material.GRAVEL) {
             Block b = event.getBlock();
             b.setType(Material.AIR);
