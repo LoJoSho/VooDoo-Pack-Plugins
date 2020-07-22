@@ -1,0 +1,6 @@
+name: Layers2Blocks
+version: ${project.version}
+main: me.lojosho.layers2blocks.Layers2Blocks
+api-version: 1.16
+authors: [LoJoSho]
+description: Craft eight Snow Layers into a Snow Block.
